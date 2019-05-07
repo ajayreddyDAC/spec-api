@@ -1,0 +1,27 @@
+{
+	"SpecsConfigMappings": {
+		"trustedpartner": [
+			{
+				"user": "apple.com",
+				"name": "API Reference",
+				"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.apple.com.js"
+			}, {
+				"user": "shell.com",
+				"name": "API Reference",
+				"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.shell.com.js"
+			}, {
+				"user": "user5@apple.com",
+				"name": "API Reference",
+				"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.user5.apple.com.js"
+			}, {
+				"user": "user6@shell.com",
+				"name": "API Reference",
+				"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.user6.shell.com.js"
+			}, {
+				"user": "sprint.com",
+				"name": "API Reference",
+				"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.integration.js"
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"SpecsConfigMappings": {
+		"internal": {
+			"partner": [
+				{
+					"user": "user1@t-mobile.com",
+					"specs": [
+						{
+							"name": "apple.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.apple.com.js"
+						}, {
+							"name": "shell.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.shell.com.js"
+						}
+					]
+				}, {
+					"user": "user2@t-mobile.com",
+					"specs": [
+						{
+							"name": "apple.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.apple.com.js"
+						}, {
+							"name": "user6@shell.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.user6.shell.com.js"
+						}
+					]
+				}, {
+					"user": "user3@t-mobile.com",
+					"specs": [
+						{
+							"name": "shell.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.shell.com.js"
+						}, {
+							"name": "user5@apple.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.user5.apple.com.js"
+						}
+					]
+				}, {
+					"user": "user4@t-mobile.com",
+					"specs": [
+						{
+							"name": "apple.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.apple.com.js"
+						}, {
+							"name": "user5@apple.com",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.user5.apple.com.js"
+						}
+					]
+				}, {
+					"user": "user5@t-mobile.com",
+					"specs": [
+						{
+							"name": "Integration",
+							"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/specs.config.v2.integration.js"
+						}
+					]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"SpecsConfigMappings": {
+		"internal": {
+			"dev": [
+				{
+					"name": "Billing and Charging",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/ce.dd.bd.specs.config.v2.dev.js"
+				}, {
+					"name": "Commerce Management",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/ce.dsg.dcp.specs.config.v2.dev.js"
+				}, {
+					"name": "Device Management",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/ce.dsg.dm.specs.config.v2.dev.js"
+				}, {
+					"name": "Order Management",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/ce.dsg.om.specs.config.v2.dev.js"
+				}, {
+					"name": "teams",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/teams.specs.config.v2.dev.js"
+				}, {
+					"name": "systems",
+					"specsConfig": "https://devportalconfighost.t-mobile.com/specsconfig/systems.specs.config.v2.dev.js"
+				}
+			]
+		}
+	}
+}
