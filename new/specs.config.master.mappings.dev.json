@@ -1,0 +1,100 @@
+{
+	"SpecsConfigMappings": {
+		"internal": {
+			"dev": [
+		      {
+		        "name": "API Basics",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/API-Basics.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Order Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Order-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "B2BExperience",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/B2BExperience.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Billing and Charging",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Billing-and-Charging.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Cloud Center of Excellence",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Cloud-Center-of-Excellence.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Commerce Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Commerce-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Customer Credit & Financing Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Customer-Credit-and-Financing-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Customer Information Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Customer-Information-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Customer Interaction Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Customer-Interaction-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Customer Payments Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Customer-Payments-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Device Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Device-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Digital Platform Delivery",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Digital-Platform-Delivery.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Enterprise Data Services",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Enterprise-Data-Services.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Generic",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Generic.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Human Resource Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Human-Resource-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Identity Access Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Identity-Access-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Legal & Corporate Affairs Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Legal-and-Corporate-Affairs-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Product and Service",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Product-and-Service.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Sales Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Sales-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Security Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Security-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Self Service",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Self-Service.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Supply Chain Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Supply-Chain-Management.specs.configv2.dev.js"
+		      },
+		      {
+		        "name": "Technology Infrastructure and Platform Management",
+		        "specsConfig": "https://productrealization.github.io/devportal-v2-swaggers/specsv2/Technology-Infrastructure-and-Platform-Management.specs.configv2.dev.js"
+		      }
+		    ]
+		}
+	}
+}
